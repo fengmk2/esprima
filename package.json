@@ -1,5 +1,5 @@
 {
-    "name": "esprima-fb",
+    "name": "esprima-harmony",
     "description": "Facebook-specific fork of the esprima project",
     "homepage": "https://github.com/facebook/esprima/tree/fb-harmony",
     "main": "esprima.js",
